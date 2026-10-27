@@ -1,0 +1,6 @@
+.env
+cache/
+logs/
+data/state.json
+data/run.lock
+__pycache__/
